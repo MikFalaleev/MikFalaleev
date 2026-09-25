@@ -1,16 +1,18 @@
 ## Hi, I'm Mikhail 👋
 
-Project logistics expert in oil & gas / petrochemical megaprojects, building software on the side.
+Solving AI integration into business processes — from LLM-based tools to full web products.
 
+- 🤖 Building **SanctionsAI** — a multi-LLM consensus tool for trade compliance
+- 💻 Building websites, web apps and Telegram Mini Apps: **SkillSwap**, **Villa Builder**, and more
 - 🚚 10+ years coordinating logistics for EPC megaprojects (SIBUR, OTEKO) across Europe & Asia
-- 💻 Building web apps and Telegram Mini Apps: **SkillSwap**, **Villa Builder**
-- 🤖 Exploring LLM-based tooling for trade compliance
 - 🌱 Learning modern frontend: React, TypeScript
-- 📍 Based in Riga, Latvia
+- ✈️ Currently in Como, Italy — relocating soon
 
 ### Stack
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,figma,python)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,figma,python,tensorflow,pytorch)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### GitHub Stats
 
