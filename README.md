@@ -21,10 +21,6 @@ Solving AI integration into business processes — from LLM-based tools to full 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikFalaleev&layout=compact&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikFalaleev&theme=default&hide_border=true)
 
-### Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MikFalaleev&theme=flat&no-frame=true&row=1&column=6)
-
 ### Snake
 
 <picture>
