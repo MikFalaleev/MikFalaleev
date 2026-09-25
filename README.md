@@ -11,8 +11,7 @@ Solving AI integration into business processes — from LLM-based tools to full 
 
 ### Stack
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,figma,python,tensorflow,pytorch,sklearn,r,matlab,docker,kubernetes,linux,aws,githubactions)
-
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,git,figma,python,tensorflow,pytorch,sklearn,r,matlab,postgres,redis,fastapi,tailwind,prisma,docker,kubernetes,linux,aws,githubactions)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### GitHub Stats
