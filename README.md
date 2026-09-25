@@ -3,6 +3,7 @@
 Solving AI integration into business processes — from LLM-based tools to full web products.
 
 - 🤖 Building **SanctionsAI** — a multi-LLM consensus tool for trade compliance
+- 🧪 Building a private R&D harness with a scientific foundation for operational logistics (QuattroFormaggi)
 - 💻 Building websites, web apps and Telegram Mini Apps: **SkillSwap**, **Villa Builder**, and more
 - 🚚 10+ years coordinating logistics for EPC megaprojects (SIBUR, OTEKO) across Europe & Asia
 - 🌱 Learning modern frontend: React, TypeScript
@@ -10,7 +11,7 @@ Solving AI integration into business processes — from LLM-based tools to full 
 
 ### Stack
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,figma,python,tensorflow,pytorch)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,figma,python,tensorflow,pytorch,sklearn,r,matlab)
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
