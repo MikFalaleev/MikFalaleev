@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Mikhail 👋
 
-<!--
-**MikFalaleev/MikFalaleev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project logistics expert in oil & gas / petrochemical megaprojects, building software on the side.
 
-Here are some ideas to get you started:
+- 🚚 10+ years coordinating logistics for EPC megaprojects (SIBUR, OTEKO) across Europe & Asia
+- 💻 Building web apps and Telegram Mini Apps: **SkillSwap**, **Villa Builder**
+- 🤖 Exploring LLM-based tooling for trade compliance
+- 🌱 Learning modern frontend: React, TypeScript
+- 📍 Based in Riga, Latvia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,figma,python)
+
+### GitHub Stats
+
+![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikFalaleev&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikFalaleev&layout=compact&hide_border=true)
