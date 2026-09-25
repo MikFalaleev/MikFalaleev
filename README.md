@@ -11,7 +11,7 @@ Solving AI integration into business processes — from LLM-based tools to full 
 
 ### Stack
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,figma,python,tensorflow,pytorch,sklearn,r,matlab)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,figma,python,tensorflow,pytorch,sklearn,r,matlab,docker,kubernetes,linux,aws,githubactions)
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
@@ -19,6 +19,11 @@ Solving AI integration into business processes — from LLM-based tools to full 
 
 ![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikFalaleev&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikFalaleev&layout=compact&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikFalaleev&theme=default&hide_border=true)
+
+### Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=MikFalaleev&theme=flat&no-frame=true&row=1&column=6)
 
 ### Snake
 
