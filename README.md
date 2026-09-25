@@ -18,3 +18,11 @@ Solving AI integration into business processes — from LLM-based tools to full 
 
 ![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikFalaleev&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikFalaleev&layout=compact&hide_border=true)
+
+### Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikFalaleev/MikFalaleev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikFalaleev/MikFalaleev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MikFalaleev/MikFalaleev/output/github-contribution-grid-snake.gif">
+</picture>
