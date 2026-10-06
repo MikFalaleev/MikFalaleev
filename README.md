@@ -3,7 +3,7 @@
 Solving AI integration into business processes — from LLM-based tools to full web products.
 
 - 🤖 Building **SanctionsAI** — a multi-LLM consensus tool for trade compliance
-- 🧪 Building a private R&D harness with a scientific foundation for operational logistics (QuattroFormaggi)
+- 🧪 **Quattro Formaggi** — local LLM for freight-request parsing: QLoRA fine-tune of Mistral-Nemo 12B, runs on a laptop (GGUF/LM Studio); 95% key-field accuracy on a synthetic benchmark. [Code](https://github.com/MikFalaleev/QuattroFormaggi) · [Model](https://huggingface.co/MikhailSAI/Quattro-Formaggi-12B-Logistics-v0.1-GGUF) · [Report](https://doi.org/10.5281/zenodo.23188452)
 - 💻 Building websites, web apps and Telegram Mini Apps: **SkillSwap**, **Villa Builder**, and more
 - 🚚 10+ years coordinating logistics for EPC megaprojects (SIBUR, OTEKO) across Europe & Asia
 - 🌱 Learning modern frontend: React, TypeScript
@@ -17,7 +17,6 @@ Solving AI integration into business processes — from LLM-based tools to full 
 ### GitHub Stats
 
 ![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikFalaleev&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikFalaleev&layout=compact&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikFalaleev&theme=default&hide_border=true)
 
 ### Snake
